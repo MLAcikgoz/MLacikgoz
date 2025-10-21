@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MLAcikgoz/MLacikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mehmet Lütfü Açıkgöz  
 
-Here are some ideas to get you started:
+🎓 Data Engineering Enthusiast | Python & ETL Learner  
+💡 Passionate about turning data into actionable insights and automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mehmetlutfuacikgoz/)
+[![GitHub](https://img.shields.io/badge/GitHub-MLAcikgoz-black?logo=github)](https://github.com/MLAcikgoz)
+
+---
+
+### ⚡ Featured Projects
+- [EnergyZero ETL Project](https://github.com/MLAcikgoz/energyzeroETL)  
+  *A real-world ETL pipeline using Python, Pandas, and the EnergyZero API — extracting, transforming, and saving real energy data in Parquet format.*
+
+---
+
+🌱 *Currently learning Docker, Apache Airflow, and data pipeline automation.*
+
